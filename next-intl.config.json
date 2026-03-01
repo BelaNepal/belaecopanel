@@ -1,0 +1,11 @@
+{
+  "locales": ["en", "ne"],
+  "defaultLocale": "en",
+  "pathnames": {
+    "/": "/",
+    "/articles": "/articles",
+    "/products": "/products",
+    "/become-a-dealer": "/become-a-dealer",
+    "/contact": "/contact"
+  }
+}
